@@ -3,7 +3,7 @@ from distutils.log import error
 
 #addition implementation
 def add(x,y):
-    pass
+    return x+y
 #substraction implementation
 def substract(x,y):
     pass
